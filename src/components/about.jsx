@@ -17,8 +17,6 @@ export default class About extends Component {
                     <p>I have been to Málaga - Spain, Rock of Gibraltar, London and New York. I would love to travel more and maybe see Paris and Berlin. </p>
                     <p>I'm a social coder on github and gitlab which is focused on programming languages, DataScience, Big Data and coding competitions like ProjectEuler.net.</p>
                     <p>I love learning new coding languages.</p>
-
-                    <p>System TEST 2</p>
                     </div>
                 </div>
                 </div>

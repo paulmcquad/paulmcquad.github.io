@@ -16,6 +16,7 @@ export default class About extends Component {
                     <p>I'm a electronics and computer science graduate from ITDublin and Roslyn Park. I have a willingness to learn new technologies.</p>
                     <p>I have been to Málaga - Spain, Rock of Gibraltar, London and New York. I would love to travel more and maybe see Paris and Berlin. </p>
                     <p>I'm a social coder on github and gitlab which is focused on programming languages, DataScience, Big Data and coding competitions like ProjectEuler.net.</p>
+                    <p>I love learning new coding languages.</p>
                     </div>
                 </div>
                 </div>

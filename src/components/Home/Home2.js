@@ -65,7 +65,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="lblue"> React.js, Vue.Js and Angular.</b>
+                <b className="lblue"> React.js, Vue.js and Angular.</b>
               </i>
               
             </p>

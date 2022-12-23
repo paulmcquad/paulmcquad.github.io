@@ -15,30 +15,46 @@ function Home2() {
     <Container fluid className="home-about-section" id="about">
       <Container>
         <Row>
-          <Col md={8} className="home-about-description">
+          <Col md={16} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
               LET ME <span className="lblue"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              <p>
+                I love programming and I have at least learnt
+                something, I think… 🤷‍♂️
+              </p>
+              I'm a <b className="lblue">electronics and computer science graduate</b> from ITDublin and Roslyn Park.
+              I have a willingness to learn new technologies.
+
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in languages like
               <i>
-                <b className="lblue"> C++, Javascript and Python. </b>
+                <b className="lblue"> HTML, CSS, Javascript/Typescript, Java and Python. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="lblue">Web Technologies and Products </b> and
+                <b className="lblue">Web Apps and pages </b> and
                 also in areas related to{" "}
                 <b className="lblue">
-                  Deep Learning and Natural Launguage Processing.
+                  Maths and Coding Languages.
                 </b>
               </i>
               <br />
               <br />
+              
+              <p>I also use
+              <b className="lblue">
+                  {" "}
+                  Modern CSS Library and Frameworks
+                </b>
+                  &nbsp; like 
+                  <b className="lblue"> Bootstrap, Foundation and Tailwind CSS. </b>
+              </p>
+
+              
               Whenever possible, I also apply my passion for developing products
               with <b className="lblue">Node.js</b> and
               <i>
@@ -49,8 +65,9 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="lblue"> React.js and Next.js</b>
+                <b className="lblue"> React.js, Vue.Js and Angular.</b>
               </i>
+              
             </p>
           </Col>
           {/* <Col md={4} className="myAvtar">

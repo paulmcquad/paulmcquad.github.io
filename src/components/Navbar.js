@@ -82,17 +82,6 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item> */}  
 
-            <Nav.Item className="fork-btn">
-              <Button
-                href="https://raw.githubusercontent.com/paulmcquad/CV/master/2022/Paul's%20CV%202022-4.pdf"
-                target="_blank"
-                className="fork-btn-inner"
-              >
-                <CgGitFork style={{ fontSize: "1.2em" }} /> Resume
-              </Button>
-            </Nav.Item>
-
-
             {/* <Nav.Item>
               <Nav.Link
                 as={Link}

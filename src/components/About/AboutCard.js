@@ -8,13 +8,6 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="lblue">Paul McQuade </span>
-            from <span className="lblue"> Swords Co.Dublin, Ireland.</span>
-            <br /> I have a <span className="lblue">Higher Cert. in Electronic Engineering</span> from ITT Dublin.
-            <br /> I have a <span className="lblue">Higher Cert. in Computer Programming/Computer Architecture</span> from Roslyn Park College.
-            <br /> i have a <span className="lblue">Certificate in Retail Practice</span> from EVE Plantmarket.
-            <br />
-            
             <br /> I'm on both <span className="lblue">github and gitlab.com</span> coding sites.
             <br /> I'm getting into <span className="lblue">DataScience, BigData and coding competitions like ProjectEuler.net.</span>
             <br />

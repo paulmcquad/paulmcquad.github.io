@@ -24,10 +24,6 @@ function Home2() {
                 I love programming and I have at least learnt
                 something, I think… 🤷‍♂️
               </p>
-              I'm a <b className="lblue">electronics and computer science graduate</b> from ITDublin and Roslyn Park.
-              I have a willingness to learn new technologies.
-
-              <br />
               <br />I am fluent in languages like
               <i>
                 <b className="lblue"> HTML, CSS, Javascript/Typescript, Java and Python. </b>

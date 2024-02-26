@@ -1,0 +1,23 @@
+{
+  "name": "paulmcquad.github.io",
+  "version": "0.4.0",
+  "description": "My Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "paulmcquad.github.io"
+  },
+  "author": "Paul McQuade",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-cssmin": "^5.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-nodeunit": "^5.0.0",
+    "grunt-contrib-uglify": "^5.2.2"
+  }
+}

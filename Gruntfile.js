@@ -14,7 +14,7 @@ module.exports = function(grunt) {
             collapseWhitespace: true
           },
           files: {                                   // Dictionary of files
-            'build/index.html': 'src/index.html'      // 'destination': 'source'
+            'docs/index.html': 'src/index.html'      // 'destination': 'source'
           }
         },
       },
@@ -22,7 +22,7 @@ module.exports = function(grunt) {
       cssmin: {
          target: {
            files: {
-             'build/styles.min.css': ['src/*.css']
+             'docs/styles.min.css': ['src/*.css']
            }
          }
        }

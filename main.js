@@ -1,5 +1,8 @@
 $(document).ready(function(){
-  $("button").click(function(){
-    $("p").hide();
+    $("#hide").click(function(){
+      $("p").hide();
+    });
+    $("#show").click(function(){
+      $("p").show();
+    });
   });
-});

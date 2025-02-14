@@ -3,6 +3,10 @@ p {
     color: green;
 }
 
+h2{
+    text-align: center;
+}
+
 ul {
     list-style-type: none;
     margin: 0;

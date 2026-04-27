@@ -1,0 +1,25 @@
+{
+  "name": "paulmcquad.github.io",
+  "version": "1.0.0",
+  "description": "Visit Site: [paulmcquad.github.io](https://paulmcquad.github.io/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulmcquad/paulmcquad.github.io.git"
+  },
+  "keywords": [],
+  "author": "Paul McQuade",
+  "license": "GPL-3.0-only",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/paulmcquad/paulmcquad.github.io/issues"
+  },
+  "homepage": "https://github.com/paulmcquad/paulmcquad.github.io#readme",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3"
+  }
+}
